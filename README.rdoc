@@ -2,6 +2,11 @@
 
 Search API for craigslist
 
+== Misc Notes:
+requires gems 'hpricot,' 'jeweler,' and 'ruby-debug.'
+
+My fork address YAML and Hpricot 'require' issues.
+
 == SYNOPSIS:
 I couldn't decide which API I liked best, so you have two choices.
   
