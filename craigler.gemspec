@@ -3,7 +3,6 @@
 # Instead, edit Jeweler::Tasks in Rakefile, and run the gemspec command
 # -*- encoding: utf-8 -*-
 
-
 Gem::Specification.new do |s|
   s.name = %q{craigler}
   s.version = "1.2.2"
